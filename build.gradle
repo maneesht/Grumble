@@ -14,9 +14,7 @@ buildscript {
     }
        
 }
-lintOptions {
-    abortOnError false
-}
+
 
 allprojects {
     repositories {
